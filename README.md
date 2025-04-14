@@ -59,7 +59,3 @@ The final product is a Power BI file (`death_causes.pbix`), which contains:
 - Incorporate additional datasets to provide more comprehensive analysis.
 - Enhance visualizations with more custom visuals and advanced formatting.
 - Implement dynamic updates to keep the dashboard current with real-world trends.
-
----
-
-Feel free to suggest any edits or let me know if you'd like further improvements. Happy analyzing! 🎉
